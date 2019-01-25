@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+}
+
+h3 {
+    color: deeppink;
+    text-align: center;
+}
+
+h1,
+h5 {
+    text-align: right;
+}
